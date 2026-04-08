@@ -24,3 +24,4 @@ def evaluate_expression(user_input):
     """Evaluate expression"""
     result = eval(user_input)  # VULNERABLE: eval on user input
     return result
+
