@@ -45,3 +45,4 @@ def evaluate_expression(user_input):
 # new api key test
 # groq test
 # llama test
+# llama 3.2 test
